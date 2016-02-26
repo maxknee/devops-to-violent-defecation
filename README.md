@@ -4,6 +4,7 @@ A Chrome extension that replaces 'DevOps' with 'Violent Defecation'.
 
 [Download the crx file here](./devops-to-violent-defecation.crx?raw=true).
 
+![](http://i.imgur.com/7iHz0GE.png)
 # Installation
 In Chrome, choose Window > Extensions. Drag `devops-to-violent-defecation.crx` into the
 page that appears. Or download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/category/apps).
