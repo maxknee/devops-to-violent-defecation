@@ -1,0 +1,14 @@
+{
+  "search_pattern": {
+    "message": "Dev[ ]?Ops"
+  },
+  "replacement_value": {
+    "message": "Violent Defecation"
+  },
+  "extension_name": {
+    "message": "DevOps to Violent Defecation"
+  },
+  "extension_description": {
+    "message": "Replaces 'DevOps' with 'Violent Defecation'"
+  }
+}

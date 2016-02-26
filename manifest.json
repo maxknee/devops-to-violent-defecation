@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extension_name__",
+  "version": "1.0",
+  "description": "__MSG_extension_description__",
+
+  "default_locale": "en_US",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": [
+        "lib/DOMVisitor.js",
+        "lib/StringTransformer.js",
+        "index.js"
+      ],
+      "matches": [ "<all_urls>" ],
+      "run_at": "document_end"
+    }
+  ]
+}
